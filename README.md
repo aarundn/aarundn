@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haroun debchoune</h1>
 <h3 align="center">A passionate Android developer from Algeria</h3>
-<img src="https://www.linkedin.com/in/haroun-debchoune-a3441b23b/overlay/background-image/" align="center" style="width: 100%" />
+<img src="[https://www.linkedin.com/in/haroun-debchoune-a3441b23b/overlay/background-image/](https://media.licdn.com/dms/image/D4D16AQGQ8ek2-b-smg/profile-displaybackgroundimage-shrink_350_1400/0/1689517325799?e=1716422400&v=beta&t=gNxuAfT2Aq5JplpudqJAmTVqgAY2pZl4SBb5gX2zYAI)" align="center" style="width: 100%" />
 </div>  
   
 - 🌱 I’m currently learning **Kotlin, jetpack compose**
