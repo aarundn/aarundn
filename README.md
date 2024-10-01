@@ -1,12 +1,35 @@
-# 💫 About Me:
-📌 I'm currently an Android developer with 3 years of experience using kotlin and java <br>
+[![MasterHead](https://i.ibb.co/FsMp5NX/2000-600px.gif)](https://abdelillahbel.devunion.dev)
 
+<h2 align="center">We focus on the hard work. Mistakes may happen, but we never leave tasks for another time!</h2>
+
+[![committers.top badge](https://user-badge.committers.top/algeria/aarundn.svg)](https://user-badge.committers.top/algeria/aarundn)
+[![Open Source Developer](https://img.shields.io/badge/Open%20Source%20Developer-%E2%9D%A4-red.svg)](https://github.com/aarundn)
+[![Google Developer Students Club Core Team Member](https://img.shields.io/badge/Google%20Developer%20Students%20Club%20National%20School%20Of%20Biotechnology%20Core%20Team%20Member-%E2%9D%A4-blue.svg)](https://gdsc.community.dev/national-school-of-biotechnology)
+
+<hr>
+<h3 align="center">Languages:</h3>
+
+[![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)](https://github.com/aarundn?tab=repositories&language=c%2b%2b)
+[![Dart](https://img.shields.io/badge/-Dart-fff?&logo=dart&logoColor=00599C)](https://github.com/aarundn?tab=repositories&language=Dart)
+[![Java](https://img.shields.io/badge/-Java-fff?&logo=java&logoColor=007396)](https://github.com/aarundn?tab=repositories&language=java)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-fff?&logo=kotlin&logoColor=0095D5)](https://github.com/aarundn?tab=repositories&language=kotlin)
+[![Python](https://img.shields.io/badge/-Python-fff?&logo=python&logoColor=3776AB)](https://github.com/aarundn?tab=repositories&language=python)
+[![C#](https://img.shields.io/badge/-C%23-fff?&logo=c-sharp&logoColor=239120)](https://github.com/aarundn?tab=repositories&language=csharp)
+
+<hr>
+<h3 align="center">Technologies:</h3>
+<p align="center">
+[![Android](https://img.shields.io/badge/-Android-fff?&logo=android&logoColor=3DDC84)](https://developer.android.com/)
+[![Flutter](https://img.shields.io/badge/-Flutter-fff?&logo=flutter&logoColor=0089D6)](https://flutter.dev/)
+[![Firebase](https://img.shields.io/badge/-Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com)
+[![SQLite](https://img.shields.io/badge/-SQLite-fff?&logo=sqlite&logoColor=003B57)](https://www.sqlite.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
+</p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aarundn ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Haroun debchoune) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aarundn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarounDebchoune)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aarundn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aarundn&theme=dark&hide_border=true)<br/>
