@@ -1,4 +1,4 @@
-# ﷽
+# بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 # 💫 About Me:
 📌 I'm currently an Android developer with 3 years of experience using kotlin and java <be>
 
