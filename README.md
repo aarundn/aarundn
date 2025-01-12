@@ -1,6 +1,6 @@
 # بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 # 💫 About Me:
-📌 I'm currently an Android developer with 3 years of experience using kotlin and java <be>
+📌 I'm currently an Android developer with 2 years of experience using kotlin and java <be>
 
 ![MasterHead](https://i.ibb.co/FsMp5NX/2000-600px.gif)
 
