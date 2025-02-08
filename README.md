@@ -1,7 +1,7 @@
 # بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 # 💫 About Me:
 ### 📌 I'm currently an Android developer with 1.5 years of experience 
-### using kotlin and (3 years) -> java & jetpack compose <be>
+### using kotlin & jetpack compose and (3 years) -> java <be>
 
 ![MasterHead](https://i.ibb.co/FsMp5NX/2000-600px.gif)
 
