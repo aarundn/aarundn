@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aarundn&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="width: 100%; max-width: 600px;"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarundn&theme=dark&hide_border=true" style="width: 100%; max-width: 600px;"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarundn&theme=dark&hide_border=true"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarundn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="width: 100%; max-width: 600px;"/>
 </div>
 
